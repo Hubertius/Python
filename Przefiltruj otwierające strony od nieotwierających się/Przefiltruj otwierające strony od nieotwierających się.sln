@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Przefiltruj otwierające strony od nieotwierających się", "Przefiltruj otwierające strony od nieotwierających się.pyproj", "{0DC31062-AC5E-408C-8186-2FA64583FF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC31062-AC5E-408C-8186-2FA64583FF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC31062-AC5E-408C-8186-2FA64583FF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803D2398-3B09-43C4-9B50-F8E52B22F36E}
+	EndGlobalSection
+EndGlobal
