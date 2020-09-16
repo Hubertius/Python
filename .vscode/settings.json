@@ -4,6 +4,11 @@
     "python.linting.flake8Args": [
         "--ignore=W92,F601"
     ],
-    "editor.formatOnSave": true
-
+    "editor.formatOnSave": true,
+    "python.testing.pytestArgs": [
+        "Test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }

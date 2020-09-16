@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tymczasowy", "Tymczasowy.pyproj", "{BFD410F4-9333-4370-8E6D-90F03EAA1D18}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Decode a webpage 2.0", "Decode a webpage 2.0.pyproj", "{80A478AD-C8F1-47F9-BE3A-BE16D1D3158D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BFD410F4-9333-4370-8E6D-90F03EAA1D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFD410F4-9333-4370-8E6D-90F03EAA1D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A478AD-C8F1-47F9-BE3A-BE16D1D3158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A478AD-C8F1-47F9-BE3A-BE16D1D3158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3C1B8EE9-1859-4E8D-B22E-03C292C3848D}
+		SolutionGuid = {B9DAAAC5-30FC-4A07-BF74-E9B6A8E9C74F}
 	EndGlobalSection
 EndGlobal
