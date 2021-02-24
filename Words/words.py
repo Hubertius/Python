@@ -20,4 +20,4 @@ def main(url):
     print_items(words)
 
 if __name__ == '__main__':
-    main(sys.argv[1])
+    main(sys.argv[1]) # the 0th argument is filename
